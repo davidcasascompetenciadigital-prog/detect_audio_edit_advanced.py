@@ -1,8 +1,7 @@
 Detect Audio Edition Forensic Analyzer
+
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0-green.svg)
-![Author](https://img.shields.io/badge/Author-Community-orange.svg)
-![Type](https://img.shields.io/badge/Type-Hardware_Tool-purple.svg)
 
 Analizador de ediciones en archivos de audio WAV
 
